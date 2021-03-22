@@ -12,7 +12,7 @@
 	<groupId>com.ashokit</groupId>
 	<artifactId>Dynamic-Search-thymleaf</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>Dynamic-Search-thymleaf</name>
 	<description>com.ashokit</description>
 	<properties>
